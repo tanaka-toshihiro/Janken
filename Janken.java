@@ -6,8 +6,8 @@ public class Janken{
         str [0] = "gu";
         str [1] = "tyoki";
         str [2] = "pa";
-        int a = 3;
-        int b = 3;
+        int a = 0;
+        int b = 0;
 	
         System.out.println("player 1");
         do{
